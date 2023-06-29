@@ -6,8 +6,8 @@ public class IdentificadorNumeros {
         int par = 0, impar = 0, pos = 0, neg = 0;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Digite 5 números inteiros");
         for(int i = 0; i < 5; i++){
+            System.out.printf("Digite o " + (i + 1) + "° número inteiro: ");
             nums[i] = scanner.nextInt();
         }
 
