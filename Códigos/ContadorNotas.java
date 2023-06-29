@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class ContadorNotas {
+
+    //Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário.
+    //A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser decomposto.
+
     public static void main(String[] args) {
         double  valor;
         int nota100 = 0, nota50 = 0, nota20 = 0, nota10 = 0, nota5 = 0, nota2 = 0;
