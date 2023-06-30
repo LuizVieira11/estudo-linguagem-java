@@ -11,7 +11,7 @@ Qualquer dúvida favor me comunique por via de Issues ou mandando mensagens pelo
 ---
 
 Feito por: Luiz Gustavo Santos Vieira
-Acesse minhas redes:
+Acesso às minhas redes:
 
 [GitHub](https://github.com/LuizVieira11)
 
