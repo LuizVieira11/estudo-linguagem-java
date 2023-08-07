@@ -6,7 +6,7 @@ No momento atual estou realizando o curso da linguagem e talvez permaneçam cód
 
 ---
 
-Qualquer dúvida favor me comunique por via de Issues ou mandando mensagens pelo GitHub mesmo. :vulcan_salute
+Qualquer dúvida favor me comunique por via de Issues ou mandando mensagens por outras redes. :vulcan_salute
 
 ---
 
