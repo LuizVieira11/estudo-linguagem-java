@@ -10,11 +10,9 @@ Qualquer dúvida favor me comunique por via de Issues ou mandando mensagens por 
 
 ---
 
-Feito por: Luiz Gustavo Santos Vieira
-Acesso às minhas redes:
+ Feito por: Luiz Gustavo Santos Vieira  
+ Acesso às minhas redes:
 
-[GitHub](https://github.com/LuizVieira11)
-
-[LinkedIn](https://www.linkedin.com/in/luiz-gustavo-santos-vieira-b78031260/)
-
-[Instagram](https://www.instagram.com/luizsv11/)
+ Veja meus repositórios no [GitHub](https://github.com/LuizVieira11).  
+ Veja meu perfil profissional do [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-santos-vieira-b78031260/).  
+ Meu [Instagram](https://www.instagram.com/luizsv11/) pessoal.
