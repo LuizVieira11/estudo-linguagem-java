@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Pesquisa;
 
 public class Livro {
 

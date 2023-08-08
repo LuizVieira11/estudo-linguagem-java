@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
