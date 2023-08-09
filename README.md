@@ -4,11 +4,11 @@ Neste repositório estarei guardando programas mais complexos realizados em Java
 
 No momento atual estou realizando o curso da linguagem e talvez permaneçam códigos simples, como no meu repositório de C.
 
----
+#
 
 Qualquer dúvida favor me comunique por via de Issues ou mandando mensagens por outras redes. :vulcan_salute
 
----
+#
 
  Feito por: Luiz Gustavo Santos Vieira  
  Acesso às minhas redes:
