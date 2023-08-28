@@ -1,5 +1,4 @@
-package Códigos;
-
+package Codigos;
 
 import java.util.Scanner;
 

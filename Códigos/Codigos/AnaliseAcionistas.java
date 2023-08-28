@@ -1,4 +1,4 @@
-package Códigos;
+package Codigos;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,7 +6,6 @@ import java.text.SimpleDateFormat;
 import java.text.ParseException;
 import java.util.List;
 import java.util.Scanner;
-import java.util.function.Function;
 
 public class AnaliseAcionistas {
 
